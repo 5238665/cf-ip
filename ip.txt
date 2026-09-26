@@ -1,6 +1,5 @@
-IP地址,端口号,网络延迟,下载速度,数据中心,落地区域,地区,城市
-2606:4700:57:8fbd:2885:3ac0:8efa:350f,443,137ms,0.16MB/s,HKG,HK,Asia Pacific,Hong Kong
-2606:4700:839a:e9f3:5b69:c95d:1a22:7e26,443,91ms,36.86MB/s,HKG,HK,Asia Pacific,Hong Kong
-2606:4700:9764:ab65:69f1:34c6:3106:117,443,88ms,34.19MB/s,HKG,HK,Asia Pacific,Hong Kong
-2606:4700:9a95:5d0f:c92b:cf92:194b:a85b,443,94ms,32.31MB/s,HKG,HK,Asia Pacific,Hong Kong
-2606:4700:9640:37bc:9ec0:6799:e2e:ae13,443,89ms,34.73MB/s,HKG,HK,Asia Pacific,Hong Kong
+104.16.246.34:443#HK
+104.17.126.71:443#HK
+104.16.244.165:443#HK
+104.19.150.246:443#HK
+104.17.185.99:443#HK
